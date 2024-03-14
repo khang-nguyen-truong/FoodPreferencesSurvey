@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SurveyApp</string>
+    <string name="survey">Survey</string>
+    <string name="start_survey">Start Survey</string>
+    <string name="submit">Submit</string>
+    <string name="error_submit_text">Error: Please answer all the questions to complete the survey.</string>
+    <string-array name="survey_types">
+        <item>Food Preferences</item>
+        <item>Dietary Habits</item>
+    </string-array>
+    <string-array name="food_pref_questions">
+        <item>What is your favorite cuisine?:Chinese:French:Italian:Indian:Japanese:Thai:Turkish</item>
+        <item>How often do you eat out?:Never:Rarely:Sometimes:Frequently</item>
+        <item>Do you prefer spicy food?:Yes:No</item>
+        <item>Do you prefer vegetarian food?:Yes:No</item>
+        <item>Do you like seafood?:Yes:No</item>
+    </string-array>
+    <string-array name="diet_habits_questions">
+        <item>Are you vegetarian?:Yes:No</item>
+        <item>Do you prefer organic food?:Yes:No</item>
+        <item>Do you consume dairy products?:Yes:No</item>
+        <item>Do you eat fast food?:Yes:No</item>
+        <item>Do you have any food allergies?:Yes:No</item>
+    </string-array>
+</resources>
